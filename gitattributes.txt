@@ -1,0 +1,1 @@
+deploy_iris_FastApi/Lib/site-packages/pip/_vendor/* -text
